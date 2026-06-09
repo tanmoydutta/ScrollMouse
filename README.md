@@ -1,4 +1,4 @@
-# ScrollMouse
+# Scroll Mouse using manetic angle sensor
 A BLE mouse dial for smooth and minimum effort scrolling. 
 
 Powered by nRF52840 BLE Soc, this HID input device is to reduce effort in scrolling. 
