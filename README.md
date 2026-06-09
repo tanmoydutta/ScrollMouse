@@ -3,6 +3,10 @@ A BLE mouse dial for smooth and minimum effort scrolling.
 
 Powered by nRF52840 BLE Soc, this HID input device is to reduce effort in scrolling. 
 
+Here is an open view of the device - 
+![alt text](https://github.com/tanmoydutta/ScrollMouse/blob/main/images/3-Part.jpg?raw=true)
+
+
 Here is a complete 3D view of the device - 
 ![alt text](https://github.com/tanmoydutta/ScrollMouse/blob/main/images/ScrollMouse.jpg?raw=true)
 
