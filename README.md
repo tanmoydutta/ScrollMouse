@@ -5,7 +5,7 @@ Powered by nRF52840 BLE Soc, this HID input device is to reduce effort in scroll
 
 ## Demo
 
-[![Watch the Scroll Mouse demo](images/3-Part.jpg)](images/2B4556C3-2B03-40DE-BED3-891B9835DFBD.mp4)
+[![Watch the Scroll Mouse demo](images/3-Part.jpg)](images/video.mov)
 
 _Click the image to watch the video._
 
